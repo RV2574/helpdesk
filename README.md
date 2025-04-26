@@ -31,7 +31,7 @@ bash
 Copy
 Edit
 npm run dev
-The frontend will be live at http://localhost:3000.
+The frontend will be live at http://localhost:5172.
 
 Start the Backend
 In the backend directory, run:
